@@ -37,3 +37,5 @@ Meu nome é Mateus Arruda e eu sou Desenvolvedor Web Back-End desde 2023, atualm
 </div>
 
 ###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arruda-mateus&theme=tokyonight&custom_title=Top%20%linguagens%)](https://github.com/anuraghazra/github-readme-stats)
